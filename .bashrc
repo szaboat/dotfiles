@@ -1,4 +1,3 @@
-
 HISTCONTROL=ignoreboth
 HISTFILESIZE=10000
 HISTSIZE=10000
@@ -17,3 +16,5 @@ alias py='python'
 cv(){
   cdargs $1 && cd "$(cat ~/.cdargsresult)"
 }
+
+export PATH=/Users/szaboat/.gem/ruby/1.8/bin:$PATH
