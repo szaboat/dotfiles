@@ -22,3 +22,4 @@ cv(){
 # PATHS
 export PATH=/Users/szaboat/.gem/ruby/1.8/bin:/usr/local/share/npm/bin:$PATH
 export NODE_PATH="/usr/local/lib/node"
+export PYTHONPATH="usr/local/bin/bzr:$PYTHONPATH"
